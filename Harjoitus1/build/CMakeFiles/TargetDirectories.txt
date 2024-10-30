@@ -1,0 +1,7 @@
+C:/Users/Juho/Desktop/KOULU/olio_harjoitukset/Harjoitus1/build/CMakeFiles/Harjoitus1.dir
+C:/Users/Juho/Desktop/KOULU/olio_harjoitukset/Harjoitus1/build/CMakeFiles/edit_cache.dir
+C:/Users/Juho/Desktop/KOULU/olio_harjoitukset/Harjoitus1/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Juho/Desktop/KOULU/olio_harjoitukset/Harjoitus1/build/CMakeFiles/list_install_components.dir
+C:/Users/Juho/Desktop/KOULU/olio_harjoitukset/Harjoitus1/build/CMakeFiles/install.dir
+C:/Users/Juho/Desktop/KOULU/olio_harjoitukset/Harjoitus1/build/CMakeFiles/install/local.dir
+C:/Users/Juho/Desktop/KOULU/olio_harjoitukset/Harjoitus1/build/CMakeFiles/install/strip.dir
